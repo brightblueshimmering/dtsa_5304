@@ -1,0 +1,1 @@
+The Human Trafficking Hotline Analysis Project aims to analyze data collected from human trafficking hotlines to gain insights into trends, patterns, and potential areas of intervention. By examining the data, we seek to understand the scope of human trafficking, identify key demographics of victims and perpetrators, and explore geographic and temporal trends.
